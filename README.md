@@ -195,7 +195,7 @@ to protect virtual machine data and enable disaster recovery.
 B.Tech Computer Science & Engineering (Cloud Computing)
 Lovely Professional University
 
-GitHub: [GitHub Profile](https://github.com/CSEBittuKr?utm_source=chatgpt.com)
+GitHub: https://github.com/CSEBittuKr/AzureProject/tree/main
 
 ---
 
